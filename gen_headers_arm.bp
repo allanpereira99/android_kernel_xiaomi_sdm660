@@ -615,6 +615,7 @@ gen_headers_out_arm = [
     "linux/virtio_vsock.h",
     "linux/vm_sockets.h",
     "linux/vt.h",
+    "linux/wireguard.h",
     "linux/wait.h",
     "linux/wanrouter.h",
     "linux/watchdog.h",

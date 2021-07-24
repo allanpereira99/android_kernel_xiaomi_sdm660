@@ -883,6 +883,7 @@ gen_headers_out_arm64 = [
     "linux/usb/tmc.h",
     "linux/usb/usb_ctrl_qti.h",
     "linux/usb/video.h",
+    "linux/wireguard.h",
     "linux/wimax/i2400m.h",
     "media/ais/msm_ais.h",
     "media/ais/msm_ais_buf_mgr.h",
